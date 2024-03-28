@@ -1,0 +1,12 @@
+1) Cambiar los gráficos a sus versiones nuevas (comparación de frecuencias y curvas características)
+2) Agregar a Nico
+3) Discurso: definición y distinción entre cromaticidad y color (tono, saturación, luminosidad), definición de campo receptivo
+4) Tuneado ----> Selectivo
+5) Anticipar necesidad de definir P(x|h)
+6) Qué estructura espacial tiene que tener es estímulo para que la respuesta del sujeto me de información sobre la estructura espacial del campo receptivo.
+7) Decir cómo va a estar dividida la charla (qué experimento hacer, cómo optimizar la medición, resultados)
+8) gráficos con error en x
+
+
+tade l-m min = 0.62 +- 0.04
+      s min = 0.60+- 0.02

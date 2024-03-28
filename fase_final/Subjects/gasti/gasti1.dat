@@ -1,0 +1,29 @@
+Subject:gasti 
+Session Nr:1
+Spatial frequency: 1.0
+2023-10-17 15:51:30.327974
+Calibration: 20190514T1036.rgb2lms
+Adaptation time: 120sec 
+Sorting: Crescent 
+Monitor:1536x864
+Patch Size:172.8
+Patch distance: 172.8
+Exposure time:1
+Spatial frequency k:1.0
+Escala:6
+Background RGB:[128 128 128 255]
+SML direction of change:[1, 0, 0]
+Background component in direction of variation:  Amplitude : R or W : Time 
+adaptation 
+0.129132	0.042000	1	10.858000
+0.129132	-0.070000	1	13.250000
+0.129132	-0.042000	1	15.552000
+0.129132	-0.014000	1	26.191000
+0.129132	-0.014000	1	28.939000
+0.129132	-0.042000	1	31.290000
+0.129132	0.042000	0	44.744000
+0.129132	0.028000	1	49.134000
+0.129132	-0.056000	1	52.659000
+0.129132	-0.028000	1	55.057000
+0.129132	-0.070000	1	57.325000
+0.129132	-0.056000	1	81.424000

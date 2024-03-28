@@ -1,0 +1,18 @@
+Subject:test 
+Session Nr:8
+Calibration: 20190514T1036.rgb2lms
+Adaptation time: 120sec 
+Sorting: Crescent 
+Monitor:2560x1440
+Patch Size:288.0
+Patch distance: 288.0
+Exposure time:0.3
+Background number:1
+Background (S) :  Patch (S)  : R or W : Time 
+adaptation 
+0.479864	0.490654	0	1.138000
+0.479864	0.501672	0	3.226000
+0.479864	0.485231	0	7.322000
+0.479864	0.469305	1	11.274000
+0.479864	0.465094	0	13.482000
+0.479864	0.496135	1	16.218000

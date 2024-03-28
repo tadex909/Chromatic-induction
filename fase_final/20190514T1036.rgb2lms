@@ -1,0 +1,31 @@
+rgb2lms:
+  id: 20190514T1036
+  size:
+    width: 395
+    height: 295
+  gray-level: 0.66
+  dataset: spectra-20190510T1546.h5
+  display:
+    monitor_id: sony_gdmf520_77
+    settings_id: 20150602
+    link_id: DVI-0
+    gfx: gl
+    mode:
+      width: 1280
+      height: 1024
+      refresh: 85
+      color-depth: [8, 8, 8]
+  dkl: |
+    # A0 [A0S, A0M, A0L]
+    0.00079304, 0.00111091, 0.00528226
+    
+    # A [ArS, AgS, AbS; 
+    #    ArM, AgM, AbM; 
+    #    ArL, AgL, AbL ]
+    0.0000000362, 0.000000087, 0.000001023
+    0.0000005988, 0.0000051039, 0.0000002803
+    0.0000018953, 0.0000050506, 0.0000002077
+    
+    # gamma [rgamma, ggamma, bgamma]
+    2.2368352, 2.20488322, 2.41013882
+    
