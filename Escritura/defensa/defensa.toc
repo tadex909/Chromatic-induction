@@ -1,4 +1,0 @@
-\beamer@sectionintoc {2}{Introducción}{2}{0}{1}
-\beamer@sectionintoc {3}{Desarrollo teórico}{6}{0}{2}
-\beamer@sectionintoc {4}{Experimentos de discriminación}{28}{0}{3}
-\beamer@sectionintoc {5}{Conclusiones}{62}{0}{4}
